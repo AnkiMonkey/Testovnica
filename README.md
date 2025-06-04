@@ -1,4 +1,4 @@
-Testovnica na prijímacie skúšky LF/FZV
+### Testovnica na prijímacie skúšky LF/FZV
 
 <p align="center">
   <img src="1.png" width="400">
