@@ -20,14 +20,17 @@ V tomto móde si môžete vybrať otázky podľa tém a určiť počet otázok.
   <img src="1.png" width="400">
 </p>
 
+Po prejdení otázok sa nesprávne zodpovedané otázky zapíšu do súboru `incorrect.txt`. Tento súbor je možné vytlačiť alebo skopírovať do aplikácií ako Anki, Quizlet alebo Remnote.
+
 ### 2. Simulátor
 
 Tento mód simuluje reálne prijímacie skúšky. Otázky sú vyberané náhodne a môžete si nastaviť počet otázok (odporúčané je 80 otázok pre BIO a 80 otázok pre CHE). Tento mód tiež obsahuje časovač nastavený na 150 minút.
 
 Otázky sú generované do .txt súboru ako:
-random_order.txt
-random_order_answers.txt
+*random_order.txt*
+*random_order_answers.txt*
 
+Tento mód je možné použiť aj na vytlačenie si podkladov do školy, kde nie sú dovolené elektronické zariadenia. :D 
 
 <p align="center">
   <img src="2.png" width="400">
@@ -52,19 +55,8 @@ V tomto móde si môžete vybrať príklady na precvičenie z rôznych okruhov.
 
 ### Reakcie
 
-V tomto móde sa reakcie zaznamenávajú do súboru Word. Tento mód je potrebné ešte otestovať pomocou náhodných čísel.
+V tomto móde sa reakcie zobrazia vo formáte PDF. Vypracovať všetky, je ich málo. Správne odpovede na poslednej strane. 
 
 ## Pokyny
 
 1. Všetky súbory musia zostať v priečinku, aplikácia z nich číta alebo do nich píše.
-2. Po prejdení otázok sa nesprávne zodpovedané otázky zapíšu do súboru `incorrect.txt`. Tento súbor je možné vytlačiť alebo skopírovať do aplikácií ako Anki, Quizlet alebo Remnote.
-
-## Simulácia skúšobných podmienok
-
-Aplikácia simuluje skúšobné podmienky s časovým limitom 150 minút a odporúčaným počtom otázok 80 pre BIO a 80 pre CHE. Po dokončení skúšky si môžete skontrolovať správnosť svojich odpovedí pomocou súboru `incorrect.txt`.
-
-## To-Do
-
-1. Skript so základnými inštrukciami a otváraním viacerých skriptov:
-    - Otvoriť prvý skript ako "w" (write), druhý a tretí ako "a" (append).
-2. Ak sa rozhodnete pre automatickú korekciu odpovedí v PC, použite rovnakú stratégiu, ale neukladajte výsledky do `.txt` súboru.
