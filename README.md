@@ -6,7 +6,7 @@
 
 ## Popis aplikácie
 
-Appka SZUApp je navrhnutá pre prípravu na prijímacie skúšky na SZU. Obsahuje tri hlavné módy pre predmety Biológia (BIO) a Chémia (CHE).
+Aplikacia je navrhnutá pre prípravu na prijímacie skúšky na SZU. Obsahuje tri hlavné módy pre predmety Biológia (BIO) a Chémia (CHE).
 
 ### 1. Generátor
 
@@ -15,9 +15,27 @@ V tomto móde si môžete vybrať otázky podľa tém a určiť počet otázok.
 - **Biológia (BIO)**
 - **Chémia (CHE)**
 
+<p align="center">
+  <img src="1.png" width="400">
+</p>
+
 ### 2. Simulátor
 
 Tento mód simuluje reálne prijímacie skúšky. Otázky sú vyberané náhodne a môžete si nastaviť počet otázok (odporúčané je 80 otázok pre BIO a 80 otázok pre CHE). Tento mód tiež obsahuje časovač nastavený na 150 minút.
+
+Otázky sú generované do .txt súboru ako:
+random_order.txt
+random_order_answers.txt
+
+
+<p align="center">
+  <img src="2.png" width="400">
+</p>
+
+<p align="center">
+  <img src="3.png" width="400">
+</p>
+
 
 - **Biológia (BIO)**
 - **Chémia (CHE)**
