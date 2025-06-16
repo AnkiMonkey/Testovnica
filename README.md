@@ -41,18 +41,24 @@ Tento mód je možné použiť aj na vytlačenie si podkladov do školy, kde nie
 </p>
 
 
-### 3. Príklady
 
-V tomto móde si môžete vybrať príklady na precvičenie z rôznych okruhov.
-
-- **Biológia (BIO)**
-- **Chémia (CHE)**
 
 ## Špeciálne módy
+
+<p align="center">
+  <img src="4.png" width="400">
+</p>
 
 ### Reakcie
 
 V tomto móde sa reakcie zobrazia vo formáte PDF. Vypracovať všetky, je ich málo. Správne odpovede na poslednej strane. 
+V tomto móde si môžete vybrať príklady na precvičenie z rôznych okruhov.
+
+### Príklady
+
+
+- **Biológia (genetika)**
+- **Chémia (príklady)**
 
 ## Pokyny
 
