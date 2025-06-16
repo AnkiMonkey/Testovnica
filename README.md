@@ -41,9 +41,6 @@ Tento mód je možné použiť aj na vytlačenie si podkladov do školy, kde nie
 </p>
 
 
-- **Biológia (BIO)**
-- **Chémia (CHE)**
-
 ### 3. Príklady
 
 V tomto móde si môžete vybrať príklady na precvičenie z rôznych okruhov.
